@@ -1,4 +1,4 @@
-# Portfólio
+# Alura Plus
 
 Olá, Bem vindo ao projeto Alura Plus. Este projeto foi feito no curso de HTML e CSS da Alura.
 
